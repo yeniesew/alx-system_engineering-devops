@@ -2,4 +2,4 @@
 # Generate an RSA key pair with 4096 bits
 # 4096 the bits to create
 
-ssh-keygen -b 4096 -P betty -f ~/.ssh/school
+ssh-keygen  -P betty -f school
